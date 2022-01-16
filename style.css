@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  background-color: antiquewhite;
+}
+h1,
+h3,
+ul {
+  color: rgb(70, 70, 70);
+  text-align: center;
+}
+h3 {
+  margin-top: 1%;
+}
+.head {
+  margin: 3%;
+  padding: 1%;
+}
